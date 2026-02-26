@@ -1,6 +1,6 @@
 # Florian ROUSSAY
 
-[Photo de profil](photo.jpeg)
+![Photo de profil](photo2.jpeg)
 
 ## Présentation
 Professionel expérimenté dans le secteur bancaire et commercial, spécialisé dans la relation client.  
